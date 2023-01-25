@@ -1,0 +1,26 @@
+{
+  "name": "b7-legal-house-mdrakibulislam-hub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Programming-Hero-Web-Course4/b7-legal-house-mdrakibulislam-hub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Programming-Hero-Web-Course4/b7-legal-house-mdrakibulislam-hub/issues"
+  },
+  "homepage": "https://github.com/Programming-Hero-Web-Course4/b7-legal-house-mdrakibulislam-hub#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  "dependencies": {
+    "daisyui": "^2.47.0"
+  }
+}
